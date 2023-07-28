@@ -1,0 +1,1254 @@
+{
+    "states" : [
+        {
+            "state": "Alabama",
+            "cities": [
+                "Birmingham",
+                "Montgomery",
+                "Mobile",
+                "Huntsville",
+                "Tuscaloosa",
+                "Dothan",
+                "Auburn",
+                "Gadsden",
+                "Prattville"
+            ],
+            "phone": [
+                "205-328-9311",
+                "334-241-2651",
+                "251-208-7211",
+                "256-722-7100",
+                "205-349-2121",
+                "334-615-3000",
+                "334-501-3100",
+                "256-549-4500",
+                "334-595-0208"
+            ]
+        },
+        {
+            "state": "Alaska",
+            "cities": [
+                "Anchorage",
+                "Juneau",
+                "Fairbanks",
+                "Sitka",
+                "Wasilla",
+                "Ketchikan",
+                "Kenai",
+                "Kodiak",
+                "Homer"
+            ],
+            "phone": [
+                "907-786-8900",
+                "907-586-0600",
+                "907-450-6500",
+                "907-747-3245",
+                "907-352-5401",
+                "907-225-6631",
+                "907-283-7879",
+                "907-486-8000",
+                "907-235-3150"
+            ]
+        },
+        {
+            "state": "Arizona",
+            "cities": [
+                "Pheonix",
+                "Tucson",
+                "Mesa",
+                "Chandler",
+                "Glendale",
+                "Scottsdale",
+                "Gilbert",
+                "Tempe",
+                "Peoria"
+            ],
+            "phone": [
+                "602-262-6151",
+                "520-791-6813",
+                "480-644-2211",
+                "480-782-4130",
+                "623-930-3000",
+                "480-312-5000",
+                "480-503-6500",
+                "480-350-8311",
+                "623-773-8311"
+            ]
+        },
+        {
+            "state": "Arkansas",
+            "cities": [
+                "Little Rock",
+                "Fort Smith",
+                "Fayetteville",
+                "Springdale",
+                "Jonesboro",
+                "Rogers",
+                "Conway",
+                "Pine Bluff",
+                "Bentonville"
+            ],
+            "phone": [
+                "501-371-4829",
+                "479-785-4221",
+                "479-587-3555",
+                "479-751-4542",
+                "870-935-5562",
+                "479-636-4141",
+                "501-450-6120",
+                "870-543-5100",
+                "479-271-3170"
+            ]
+        },
+        {
+            "state": "California",
+            "cities": [
+                "Los Angeles",
+                "San Diego",
+                "San Jose",
+                "San Francisco",
+                "Fresno",
+                "Sacramento",
+                "Long Beach",
+                "Oakland",
+                "Bakersfield"
+            ],
+            "phone": [
+                "877-275-5273",
+                "858-484-3154",
+                "408-277-8900",
+                "415-553-0123",
+                "559-621-7000",
+                "916-264-5471",
+                "562-435-6711",
+                "510-777-3333",
+                "661-327-7111"
+            ]
+        },
+        {
+            "state": "Colorado",
+            "cities": [
+                "Denver",
+                "Colorado Springs",
+                "Aurora",
+                "Fort Collins",
+                "Lakewood",
+                "Thronton",
+                "Arvada",
+                "Pueblo",
+                "Centennial"
+            ],
+            "phone": [
+                "720-913-2000",
+                "719-444-7000",
+                "630-256-5000",
+                "970-221-6540",
+                "303-987-7111",
+                "720-977-5150",
+                "720-898-6900",
+                "719-553-2502",
+                "303-795-4711"
+            ]
+        },
+        {
+            "state": "Connecticut",
+            "cities": [
+                "Bridgeport",
+                "New Haven",
+                "Stamford",
+                "Hartford",
+                "Waterbury",
+                "Norwalk",
+                "Danbury",
+                "New Britain",
+                "Greenwich"
+            ],
+            "phone": [
+                "203-576-7671",
+                "203-946-6316",
+                "203-977-4444",
+                "860-757-4000",
+                "203-574-6911",
+                "203-854-3000",
+                "203-797-4614",
+                "860-826-3000",
+                "203-622-8004"
+            ]
+        },
+        {
+            "state": "Delaware",
+            "cities": [
+                "Wilmington",
+                "Dover",
+                "Newark",
+                "Middletown",
+                "Milford",
+                "Smyrna",
+                "Seaford",
+                "Georgetown",
+                "Elsmere"
+            ],
+            "phone": [
+                "302-654-5151",
+                "302-736-7111",
+                "302-366-7111",
+                "302-573-2800",
+                "302-422-8081",
+                "302-653-3491",
+                "302-629-6644",
+                "302-856-6613",
+                "302-998-1173"
+            ]
+        },
+        {
+            "state": "Florida",
+            "cities": [
+                "Jacksonville",
+                "Miami",
+                "Tampa",
+                "Orlando",
+                "St. Petersburg",
+                "Tallahassee",
+                "Hialeah",
+                "Fort Lauderdale",
+                "Cape Coral"
+            ],
+            "phone": [
+                "904-630-0500",
+                "305-579-6111",
+                "813-231-6130",
+                "321-235-5300",
+                "727-893-7780",
+                "850-606-5800",
+                "305-687-2525",
+                "954-764-4357",
+                "239-574-3223"
+            ]
+        },
+        {
+            "state": "Georgia",
+            "cities": [
+                "Atlanta",
+                "Augusta",
+                "Savannah",
+                "Athens",
+                "Sandy Springs",
+                "Macon",
+                "Johns Creek",
+                "Warner Robins",
+                "Alpharetta"
+            ],
+            "phone": [
+                "404-614-6544",
+                "706-821-1065",
+                "912-652-6500",
+                "706-613-3345",
+                "770-551-6900",
+                "478-751-7500",
+                "678-474-1600",
+                "478-302-5378",
+                "678-297-6300"
+            ]
+        },
+        {
+            "state": "Hawaii",
+            "cities": [
+                "Honolulu",
+                "Peal City",
+                "Hilo",
+                "Mililani",
+                "Waipahu",
+                "Kaneohe",
+                "Wahiawa",
+                "Kapolei",
+                "Waimalu"
+            ],
+            "phone": [
+                "808-529-3111",
+                "808-723-8800",
+                "808-935-3311",
+                "808-723-8710",
+                "808-723-8805",
+                "808-723-8640",
+                "808-723-8700",
+                "808-723-8400",
+                "808-529-3111"
+            ]
+        },
+        {
+            "state": "Idaho",
+            "cities": [
+                "Boise",
+                "Nampa",
+                "Meridian",
+                "Idaho Falls",
+                "Pocatello",
+                "Caldwell",
+                "Twin Falls",
+                "Lewiston",
+                "Post Falls"
+            ],
+            "phone": [
+                "208-377-6790",
+                "208-465-2257",
+                "208-888-6678",
+                "208-612-8616",
+                "208-234-6100",
+                "208-454-7531",
+                "208-735-4357",
+                "208-746-0171",
+                "208-773-3517"
+            ]
+        },
+        {
+            "state": "Illinois",
+            "cities": [
+                "Chicago",
+                "Aurora",
+                "Rockford",
+                "Joliet",
+                "Naperville",
+                "Springfield",
+                "Peoria",
+                "Elgin",
+                "Waukegan"
+            ],
+            "phone": [
+                "312-746-6000",
+                "630-256-5000",
+                "815-966-2900",
+                "815-726-2491",
+                "630-420-6666",
+                "217-788-8311",
+                "309-673-4521",
+                "847-289-2700",
+                "847-360-9000"
+            ]
+        },
+        {
+            "state": "Indiana",
+            "cities": [
+                "Indianapolis",
+                "Fort Wayne",
+                "Evansville",
+                "South Bend",
+                "Hammond",
+                "Bloomington",
+                "Carmel",
+                "Gary",
+                "Muncie"
+            ],
+            "phone": [
+                "317-327-3811",
+                "260-427-1222",
+                "812-436-7896",
+                "574-235-9201",
+                "219-852-2900",
+                "812-339-4477",
+                "317-773-1282",
+                "219-660-0000",
+                "765-747-4838"
+            ]
+        },
+        {
+            "state": "Iowa",
+            "cities": [
+                "Des Moines",
+                "Cedar Rapids",
+                "Davenport",
+                "Sioux City",
+                "Iowa City",
+                "Ames",
+                "Council Bluffs",
+                "Dubuque",
+                "Waterloo"
+            ],
+            "phone": [
+                "515-283-4811",
+                "319-286-5491",
+                "563-326-7979",
+                "712-279-6960",
+                "319-356-5275",
+                "515-239-5133",
+                "712-328-4701",
+                "563-589-4415",
+                "319-291-2515"
+            ]
+        },
+        {
+            "state": "Kansas",
+            "cities": [
+                "Wichita",
+                "Overland Park",
+                "Kansas City",
+                "Olathe",
+                "Topeka",
+                "Lawrence",
+                "Shawnee",
+                "Lenexa",
+                "Salina"
+            ],
+            "phone": [
+                "316-268-4111",
+                "913-895-6300",
+                "913-596-3000",
+                "913-782-0720",
+                "785-368-9551",
+                "785-832-7509",
+                "913-631-2150",
+                "913-477-7300",
+                "785-826-7210"
+            ]
+        },
+        {
+            "state": "Kentucky",
+            "cities": [
+                "Lexington",
+                "Lousiville",
+                "Bowling Green",
+                "Owensboro",
+                "Covington",
+                "Hopkinsville",
+                "Elizabethtown",
+                "Henderson",
+                "Nicholasville"
+            ],
+            "phone": [
+                "859-258-3600",
+                "502-574-7111",
+                "270-393-2473",
+                "270-687-8888",
+                "859-356-3191",
+                "270-890-1300",
+                "270-765-4125",
+                "270-831-1295",
+                "859-885-9467"
+            ]
+        },
+        {
+            "state": "Louisiana",
+            "cities": [
+                "New Orleans",
+                "Baton Rouge",
+                "Shreveport",
+                "Lafayette",
+                "Lake Charles",
+                "Kenner",
+                "Bossier City",
+                "Alexandria",
+                "Houma"
+            ],
+            "phone": [
+                "504-821-2222",
+                "225-389-2000",
+                "318-673-7300",
+                "337-291-8600",
+                "337-491-1456",
+                "504-712-2222",
+                "318-741-8611",
+                "318-449-5099",
+                "985-873-6306"
+            ]
+        },
+        {
+            "state": "Maine",
+            "cities": [
+                "Portland",
+                "Lewiston",
+                "Bangor",
+                "South Portland",
+                "Biddeford",
+                "Saco",
+                "Augusta",
+                "Windham",
+                "Gorham"
+            ],
+            "phone": [
+                "207-874-8575",
+                "207-784-6421",
+                "207-947-7382",
+                "207-874-8575",
+                "207-282-5127",
+                "207-282-8214",
+                "207-626-2370",
+                "207-892-2525",
+                "207-839-5581"
+            ]
+        },
+        {
+            "state": "Maryland",
+            "cities": [
+                "Baltimore",
+                "Frederick",
+                "Rockville",
+                "Gaithersburg",
+                "Silver Spring",
+                "Bowie",
+                "Hagerstown",
+                "Annapolis",
+                "College Park"
+            ],
+            "phone": [
+                "410-887-2222",
+                "301-600-2100",
+                "240-314-8900",
+                "301-279-8000",
+                "240-773-6800",
+                "240-544-5700",
+                "301-739-8577",
+                "410-268-4141",
+                "301-405-3555"
+            ]
+        },
+        {
+            "state": "Massachusetts",
+            "cities": [
+                "Boston",
+                "Worcester",
+                "Springfield",
+                "Lowell",
+                "Cambridge",
+                "New Bedford",
+                "Brockton",
+                "Quincy",
+                "Lynn"
+            ],
+            "phone": [
+                "617-343-4200",
+                "508-799-8600",
+                "413-787-6302",
+                "978-937-3200",
+                "617-349-3300",
+                "508-991-6300",
+                "508-941-0200",
+                "617-479-1212",
+                "781-595-2000"
+            ]
+        },
+        {
+            "state": "Michigan",
+            "cities": [
+                "Detroit",
+                "Grand Rapids",
+                "Sterling Heights",
+                "Ann Arbor",
+                "Lansing",
+                "Dearborn",
+                "Flint",
+                "Livonia",
+                "Westland"
+            ],
+            "phone": [
+                "313-267-4600",
+                "616-456-3400",
+                "586-446-2800",
+                "734-994-2911",
+                "517-483-4680",
+                "313-943-2242",
+                "810-237-6800",
+                "734-466-2400",
+                "734-722-9600"
+            ]
+        },
+        {
+            "state": "Minnesota",
+            "cities": [
+                "Minneapolis",
+                "Saint Paul",
+                "Rochester",
+                "Duluth",
+                "Bloomington",
+                "Brooklyn Park",
+                "St. Cloud",
+                "Eagan",
+                "Eden Prairie"
+            ],
+            "phone": [
+                "612-348-2345",
+                "651-291-1111",
+                "507-328-6800",
+                "218-625-3581",
+                "952-563-4900",
+                "763-493-8222",
+                "407-891-6700",
+                "651-675-5700",
+                "952-949-6200"
+            ]
+        },
+        {
+            "state": "Mississippi",
+            "cities": [
+                "Jackson",
+                "Gulfport",
+                "Southaven",
+                "Hattiesburg",
+                "Biloxi",
+                "Tupelo",
+                "Meridian",
+                "Olive Branch",
+                "Pearl"
+            ],
+            "phone": [
+                "601-960-1234",
+                "228-868-5959",
+                "662-393-8652",
+                "601-545-4910",
+                "228-392-0641",
+                "662-841-6491",
+                "601-485-1960",
+                "662-895-4111",
+                "601-939-7000"
+            ]
+        },
+        {
+            "state": "Missouri",
+            "cities": [
+                "Kansas City",
+                "St. Louis",
+                "Springfield",
+                "Independence",
+                "Columbia",
+                "Lee's Summit",
+                "O'Fallon",
+                "Saint Joseph",
+                "Saint Charles"
+            ],
+            "phone": [
+                "816-234-5111",
+                "314-231-1212",
+                "417-864-1810",
+                "816-325-7300",
+                "573-442-6131",
+                "816-969-7390",
+                "636-240-3200",
+                "816-271-4777",
+                "636-949-3300"
+            ]
+        },
+        {
+            "state": "Montana",
+            "cities": [
+                "Billings",
+                "Missoula",
+                "Great Falls",
+                "Bozeman",
+                "Butte",
+                "Helena",
+                "Kalispell",
+                "Havre",
+                "Anaconda"
+            ],
+            "phone": [
+                "406-657-8200",
+                "406-552-6300",
+                "406-727-7688",
+                "406-582-2000",
+                "406-497-6200",
+                "406-447-8461",
+                "406-758-7780",
+                "406-265-4361",
+                "406-563-5241"
+            ]
+        },
+        {
+            "state": "Nebraska",
+            "cities": [
+                "Omaha",
+                "Lincoln",
+                "Grand Island",
+                "Kearney",
+                "Fremont",
+                "Hastings",
+                "North Platte",
+                "Papillion",
+                "La Vista"
+            ],
+            "phone": [
+                "402-444-5600",
+                "402-441-6000",
+                "308-385-5400",
+                "308-237-2104",
+                "402-727-2677",
+                "402-461-2380",
+                "308-535-6789",
+                "402-597-2035",
+                "402-331-1582"
+            ]
+        },
+        {
+            "state": "Nevada",
+            "cities": [
+                "Las Vegas",
+                "Henderson",
+                "Reno",
+                "Sparks",
+                "Carson City",
+                "Pahrump",
+                "Fallon",
+                "Elko",
+                "Fernley"
+            ],
+            "phone": [
+                "702-828-3111",
+                "702-267-5000",
+                "775-334-2677",
+                "775-353-2231",
+                "775-887-2677",
+                "775-553-2345",
+                "775-423-3116",
+                "775-777-7300",
+                "775-577-5023"
+            ]
+        },
+        {
+            "state": "New Hampshire",
+            "cities": [
+                "Manchester",
+                "Nashua",
+                "Concord",
+                "Derry",
+                "Merrimack",
+                "Rochester",
+                "Londonderry",
+                "Keene",
+                "Portsmouth"
+            ],
+            "phone": [
+                "603-668-8711",
+                "603-594-3500",
+                "603-225-8600",
+                "603-432-6111",
+                "603-424-3774",
+                "603-330-7127",
+                "603-432-1118",
+                "603-357-9815",
+                "603-427-1500"
+            ]
+        },
+        {
+            "state": "New Jersey",
+            "cities": [
+                "Newark",
+                "Jersey City",
+                "Paterson",
+                "Elizabeth",
+                "Woodbridge",
+                "Trenton",
+                "Clifton",
+                "Camden",
+                "Cherry Hill"
+            ],
+            "phone": [
+                "973-733-6000",
+                "201-547-5477",
+                "973-321-1111",
+                "908-558-2000",
+                "732-634-7700",
+                "609-989-4000",
+                "973-470-5911",
+                "856-757-7474",
+                "856-665-1200"
+            ]
+        },
+        {
+            "state": "New Mexico",
+            "cities": [
+                "Albuquerque",
+                "Las Cruces",
+                "Rio Rancho",
+                "Santa Fe",
+                "Roswell",
+                "Farmington",
+                "Hobbs",
+                "Alamogordo",
+                "Carlsbad"
+            ],
+            "phone": [
+                "505-242-2677",
+                "575-526-0795",
+                "505-891-7226",
+                "505-428-3710",
+                "575-624-6770",
+                "505-334-6622",
+                "575-397-9265",
+                "575-439-4300",
+                "575-885-2111"
+            ]
+        },
+        {
+            "state": "New York",
+            "cities": [
+                "New York City",
+                "Buffalo",
+                "Rochester",
+                "Yonkers",
+                "Syracruse",
+                "Albany",
+                "Huntington",
+                "Smithtown",
+                "New Rochelle"
+            ],
+            "phone": [
+                "212-477-9218",
+                "716-851-4444",
+                "585-428-5990",
+                "914-377-7900",
+                "315-442-5151",
+                "518-438-4000",
+                "631-427-2020",
+                "631-852-2677",
+                "914-654-2300"
+            ]
+        },
+        {
+            "state": "North Carolina",
+            "cities": [
+                "Charlotte",
+                "Raleigh",
+                "Greensboro",
+                "Durham",
+                "Winston-Salem",
+                "Fayetteville",
+                "Cary",
+                "Wilmington",
+                "High Point"
+            ],
+            "phone": [
+                "704-353-1000",
+                "919-831-6311",
+                "363-373-2222",
+                "919-560-4600",
+                "336-773-7700",
+                "910-433-1529",
+                "919-469-4012",
+                "910-452-6120",
+                "336-883-3224"
+            ]
+        },
+        {
+            "state": "North Dakota",
+            "cities": [
+                "Fargo",
+                "Bismarck",
+                "Grand Forks",
+                "Minot",
+                "Williston",
+                "Mandan",
+                "Jamestown",
+                "Wahpeton",
+                "West Fargo"
+            ],
+            "phone": [
+                "701-235-4493",
+                "701-223-1212",
+                "701-787-8000",
+                "701-852-0111",
+                "701-577-1212",
+                "701-667-3250",
+                "701-252-1000",
+                "701-642-7722",
+                "701-433-5500"
+            ]
+        },
+        {
+            "state": "Ohio",
+            "cities": [
+                "Columbus",
+                "Cleveland",
+                "Cincinnati",
+                "Toledo",
+                "Akron",
+                "Dayton",
+                "Youngstown",
+                "Lorain",
+                "Elyria"
+            ],
+            "phone": [
+                "614-645-4545",
+                "216-621-1234",
+                "513-765-1212",
+                "419-245-3340",
+                "330-375-2552",
+                "937-333-2677",
+                "330-747-7911",
+                "440-204-2100",
+                "440-323-3302"
+            ]
+        },
+        {
+            "state": "Oklahoma",
+            "cities": [
+                "Oklahoma City",
+                "Tulsa",
+                "Norman",
+                "Broken Arrow",
+                "Lawton",
+                "Edmond",
+                "Moore",
+                "Enid",
+                "Stillwater"
+            ],
+            "phone": [
+                "405-231-2121",
+                "918-596-9222",
+                "405-321-1444",
+                "918-259-8400",
+                "580-581-3271",
+                "405-359-4338",
+                "405-793-5171",
+                "580-242-7000",
+                "405-742-8298"
+            ]
+        },
+        {
+            "state": "Oregon",
+            "cities": [
+                "Portland",
+                "Salem",
+                "Eugene",
+                "Gresham",
+                "Hillsboro",
+                "Beaverton",
+                "Bend",
+                "Medford",
+                "Corvallis"
+            ],
+            "phone": [
+                "503-823-3333",
+                "503-588-6123",
+                "541-682-5111",
+                "503-823-3333",
+                "503-629-0111",
+                "503-629-0111",
+                "541-693-6911",
+                "541-774-2250",
+                "541-766-6924"
+            ]
+        },
+        {
+            "state": "Pennsylvania",
+            "cities": [
+                "Philadelphia",
+                "Pittsburgh",
+                "Allentown",
+                "Erie",
+                "Reading",
+                "Scranton",
+                "Lancaster",
+                "Harrisburg",
+                "Haverford"
+            ],
+            "phone": [
+                "215-686-8477",
+                "412-255-2621",
+                "610-437-7751",
+                "814-870-1125",
+                "610-655-6111",
+                "570-348-4141",
+                "717-664-1180",
+                "717-558-6900",
+                "610-853-1298"
+            ]
+        },
+        {
+            "state": "Rhode Island",
+            "cities": [
+                "Providence",
+                "Warwick",
+                "Cranston",
+                "Pawtucket",
+                "East Providence",
+                "Woonsocket",
+                "Coventry",
+                "Cumberland",
+                "Middletown"
+            ],
+            "phone": [
+                "401-272-3121",
+                "401-468-4200",
+                "401-942-2211",
+                "401-727-9100",
+                "401-435-7600",
+                "401-766-1212",
+                "401-826-1100",
+                "401-333-2500",
+                "401-846-1144"
+            ]
+        },
+        {
+            "state": "South Carolina",
+            "cities": [
+                "Columbia",
+                "Charleston",
+                "Mount Pleasant",
+                "Rock Hill",
+                "Greenville",
+                "Summerville",
+                "Sumter",
+                "Goose Creek",
+                "Florence"
+            ],
+            "phone": [
+                "803-252-2911",
+                "843-743-7200",
+                "843-884-4176",
+                "803-329-5500",
+                "864-271-5333",
+                "843-875-1650",
+                "803-436-2770",
+                "843-572-4300",
+                "843-665-3191"
+            ]
+        },
+        {
+            "state": "South Dakota",
+            "cities": [
+                "Sioux Falls",
+                "Rapid City",
+                "Aberdeen",
+                "Brookings",
+                "Watertown",
+                "Mitchell",
+                "Yankton",
+                "Pierre",
+                "Huron"
+            ],
+            "phone": [
+                "605-367-7000",
+                "605-394-4131",
+                "605-626-7911",
+                "605-692-2113",
+                "605-882-6210",
+                "605-995-8486",
+                "605-668-5210",
+                "605-773-7410",
+                "605-353-8550"
+            ]
+        },
+        {
+            "state": "Tennessee",
+            "cities": [
+                "Nashville",
+                "Memphis",
+                "Knoxville",
+                "Chattanooga",
+                "Clarksville",
+                "Murfreesboro",
+                "Jackson",
+                "Johnson City",
+                "Bartlett"
+            ],
+            "phone": [
+                "615-862-8600",
+                "901-545-2677",
+                "865-215-7268",
+                "423-698-2525",
+                "931-552-1011",
+                "615-849-2670",
+                "731-425-8630",
+                "423-434-6160",
+                "901-385-5555"
+            ]
+        },
+        {
+            "state": "Texas",
+            "cities": [
+                "Houston",
+                "San Antonio",
+                "Dallas",
+                "Austin",
+                "Fort Worth",
+                "El Paso",
+                "Arlington",
+                "Corpus Christi",
+                "Plano"
+            ],
+            "phone": [
+                "713-884-3131",
+                "210-207-7273",
+                "214-744-4444",
+                "512-974-2000",
+                "817-335-4222",
+                "915-832-4400",
+                "817-274-4444",
+                "361-886-2600",
+                "972-424-5678"
+            ]
+        },
+        {
+            "state": "Utah",
+            "cities": [
+                "Salt Lake City",
+                "West Valley City",
+                "West Jordan",
+                "Orem",
+                "Ogden",
+                "St. George",
+                "Layton",
+                "Taylorsville",
+                "South Jordan"
+            ],
+            "phone": [
+                "801-799-3000",
+                "801-840-4000",
+                "801-256-2000",
+                "801-229-7070",
+                "801-395-8221",
+                "435-627-4300",
+                "801-497-8300",
+                "801-743-7000",
+                "801-840-4000"
+            ]
+        },
+        {
+            "state": "Vermont",
+            "cities": [
+                "Burlington",
+                "Essex",
+                "Colchester",
+                "Rutland",
+                "Bennington",
+                "Brattleboro",
+                "Barre",
+                "Middlebury",
+                "Montpelier"
+            ],
+            "phone": [
+                "802-658-2704",
+                "802-878-8331",
+                "802-264-5555",
+                "802-773-1816",
+                "802-442-1030",
+                "802-257-7950",
+                "802-476-6613",
+                "802-388-3191",
+                "802-223-3445"
+            ]
+        },
+        {
+            "state": "Virginia",
+            "cities": [
+                "Virginia Beach",
+                "Norfolk",
+                "Chesapeake",
+                "Arlington",
+                "Richmond",
+                "Newport News",
+                "Alexandria",
+                "Hampton",
+                "Roanoke"
+            ],
+            "phone": [
+                "757-385-5000",
+                "757-441-5610",
+                "757-382-6161",
+                "703-558-2222",
+                "804-646-5100",
+                "757-247-2500",
+                "703-746-4444",
+                "757-727-6111",
+                "540-562-3265"
+            ]
+        },
+        {
+            "state": "Washington",
+            "cities": [
+                "Seattle",
+                "Spokane",
+                "Tacoma",
+                "Vancouver",
+                "Vellevue",
+                "Everett",
+                "Renton",
+                "Yakima",
+                "Federal Way"
+            ],
+            "phone": [
+                "206-625-5011",
+                "509-477-5980",
+                "253-798-4721",
+                "360-693-3111",
+                "425-577-5656",
+                "425-407-3999",
+                "425-235-2121",
+                "509-575-6200",
+                "253-835-2121"
+            ]
+        },
+        {
+            "state": "West Virginia",
+            "cities": [
+                "Charleston",
+                "Huntington",
+                "Parkersburg",
+                "Morgantown",
+                "Wheeling",
+                "Weirton",
+                "Martinsburg",
+                "Beckley",
+                "Clarksburg"
+            ],
+            "phone": [
+                "304-348-6460",
+                "304-696-4470",
+                "304-485-8501",
+                "304-284-7522",
+                "304-234-3661",
+                "304-797-8500",
+                "304-264-2100",
+                "304-256-1700",
+                "304-622-8416"
+            ]
+        },
+        {
+            "state": "Wisconsin",
+            "cities": [
+                "Milwaukee",
+                "Madison",
+                "Green Bay",
+                "Kenosha",
+                "Racine",
+                "Appleton",
+                "Waukesha",
+                "Eau Claire",
+                "Oshkosh"
+            ],
+            "phone": [
+                "414-933-4444",
+                "608-255-2345",
+                "920-391-7450",
+                "262-656-1234",
+                "262-886-2300",
+                "920-832-5500",
+                "262-524-3831",
+                "715-839-4972",
+                "920-236-5700"
+            ]
+        },
+        {
+            "state": "Wyoming",
+            "cities": [
+                "Cheyenne",
+                "Casper",
+                "Laramie",
+                "Gillette",
+                "Rock Springs",
+                "Sheridan",
+                "Green River",
+                "Riverton",
+                "Jackson"
+            ],
+            "phone": [
+                "307-637-6524",
+                "307-235-8278",
+                "307-721-2526",
+                "307-682-5155",
+                "307-352-1575",
+                "307-672-2413",
+                "307-875-1400",
+                "307-856-4891",
+                "307-733-2331"
+            ]
+        }
+    ]
+}

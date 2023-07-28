@@ -1,0 +1,21 @@
+.jumbotron {
+    background-color: aqua;
+}
+.b {
+    background-color: aquamarine;
+}
+.center {
+    text-align: center;
+}
+.dropWide {
+    width: 222px;
+    height: 35px;
+}
+.drop {
+    padding-left: 41.7%;
+    padding-bottom: 10px;
+}
+.red {
+    color: red;
+    font-weight: bold;
+}
